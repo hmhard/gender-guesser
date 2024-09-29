@@ -1,3 +1,3 @@
 # gender-guesser
 
-![Capture github.PNG](./Capture%20github.PNG))
+![Capture github.PNG](./Capture%20github.PNG)
